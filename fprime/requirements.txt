@@ -11,7 +11,7 @@ click==8.1.6
 cookiecutter==2.2.3
 et-xmlfile==1.1.0
 exceptiongroup==1.1.2
-Flask==2.2.3
+Flask==2.2.5
 Flask-Compress==1.13
 Flask-RESTful==0.3.10
 fprime-fpl-convert-xml==1.0.0
